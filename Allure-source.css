@@ -5,12 +5,12 @@
 /* Icons */
 @font-face {
   font-family: 'trilium-allure-icons';  /* project id 2347067 */
-  src: url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.eot');
-  src: url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.woff2') format('woff2'),
-  url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.woff') format('woff'),
-  url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_2347067_x9v9lfzqeo7.svg#trilium-allure-icons') format('svg');
+  src: url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7.eot');
+  src: url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7-2.eot') format('embedded-opentype'),
+  url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7.woff2') format('woff2'),
+  url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7.woff') format('woff'),
+  url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7.ttf') format('truetype'),
+  url('//https://raw.githubusercontent.com/sigaloid/Allure/main/resources/font_2347067_x9v9lfzqeo7.svg') format('svg');
 }
 
 /* Open Sans */
